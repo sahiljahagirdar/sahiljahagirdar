@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/yourusername" width="120" align="right" />
+<img src="https://avatars.githubusercontent.com/sahiljahagirdar" width="120" align="right" />
 
 # 👋 Hey, I'm Sahil Jahagirdar
 
